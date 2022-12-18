@@ -9,13 +9,23 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/picker": "^1.8.1",
+    "convert-units": "^2.3.4",
     "expo": "~47.0.8",
+    "expo-constants": "^14.0.2",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-dom": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-pager-view": "6.0.1",
+    "react-native-reanimated": "~2.12.0",
+    "react-native-tab-view": "^3.3.4",
+    "react-native-web": "^0.18.10"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "babel-preset-expo": "^9.2.2"
   },
   "private": true
 }
